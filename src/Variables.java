@@ -17,10 +17,10 @@ public class Variables
         System.out.println("Summary of The Primitive Data Types");
         System.out.println("Byte: Byte data type is for saving memory and could take in place of int.");
         System.out.println("short: Short data type is Also to save space.");
-        System.out.println("int: Int means integer which is for numbaric values.");
+        System.out.println("int: Int means integer which is for numberic values.");
         System.out.println("long: Long data type is for when you need a range of values that are long.");
         System.out.println("float: Float is when when the range of val".);
-        System.out.println("double: Double data type is when ");
+        System.out.println("double: Double data type is range of values beyond the discussion");
         System.out.println("boolean:"Boolean is used for true and false");
         System.out.println("char: Char data types means its a character");
     }
